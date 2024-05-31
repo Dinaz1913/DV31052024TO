@@ -19,6 +19,6 @@ This is a simple command-line TODO application written in PHP. The application a
 Clone the repository or download the files:
 
 ```sh
-git clone https://github.com/your-repo/todo-app.git
+git clone https://github.com/Dinaz1913/DV31052024TO.git
 cd todo-app
 
