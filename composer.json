@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/console": "^7.1",
+      "ext-readline": "*"
+    }
+}
